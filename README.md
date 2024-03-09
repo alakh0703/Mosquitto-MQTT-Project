@@ -31,6 +31,3 @@ To use the Mosquitto project, you need to have two Command Prompt windows open: 
 You can also use different topics, messages, and options for the mosquitto_pub and mosquitto_sub commands. For more details, you can refer to the Mosquitto documentation³ or the Mosquitto man pages⁵.
 
 
-## Contact
-
-If you have any questions or feedback, please contact me.
